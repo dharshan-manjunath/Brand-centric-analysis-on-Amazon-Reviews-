@@ -1,11 +1,11 @@
-##Brand-centric-analysis-on-Amazon-Reviews
-#The repo cantains Brand centric analysis done on Amazon reviews
+# Brand-centric-analysis-on-Amazon-Reviews
+# The repo cantains Brand centric analysis done on Amazon reviews
 
 1. Popular 5 categories are selected for analysis based on number of reviews.
 2. Top 8 brands are selected based on sentiment score. LDA is performed on all reviews of the brand and visualized in word cloud.
 3. Top 5 products of each brand is visualized with sentiment word cloud.
 
-#Key Findings:
+# Key Findings:
 
 We noticed a correlation between the total number of reviews and the total number of positive reviews of a product. A product with more reviews meant more people bought the product and tended to give more positive reviews.
 
